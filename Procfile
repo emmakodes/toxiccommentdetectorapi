@@ -1,0 +1,1 @@
+web: gunicorn 'toxic_comment_detector_app.wsgi'
